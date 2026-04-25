@@ -1,42 +1,8 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 🛡️ Insurance Fraud Detection Dashboard
 
 An end-to-end **Data Analytics Project** focused on identifying suspicious insurance claims using **Python, SQL, and Power BI**. This project analyzes claim records, uncovers fraud patterns, and presents business insights through an interactive dashboard.
 
+![Dashboard Preview](Insaurance Fraud Dashboard.png)
 ---
 
 ## 📌 Project Overview
